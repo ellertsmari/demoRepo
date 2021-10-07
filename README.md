@@ -1,3 +1,3 @@
 # demoRepo
 
-This here is a demo repository just to try out forking and branching
+This here is the demo repository to try out forking and branching
